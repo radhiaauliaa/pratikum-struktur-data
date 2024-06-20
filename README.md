@@ -10,7 +10,7 @@ Mahasiswa : Radhia Aulia Nisa (23343049)<br><br>
 
 # Jobsheets #
 ***
-## [Jobsheet 1 - Introduction](https://github.com/radhiaaulia16/Pratikum-Struktur-Data/tree/main/JS%201/latihan)<br> ##
+## [Jobsheet 1 - Introduction](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%201%20-%20Introduction/latihan)<br> ##
 
 <p align="justify">
 <b>Struktur data</b> merupakan cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Sedangkan data adalah representasi dari fakta dunia nyata. Konstanta digunakan untuk menyatakan nilai yang dapat berubah.
@@ -29,7 +29,7 @@ Struktur data dibagi menjadi 2, yaitu : </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## [Jobsheet 2 - Array, Pointer, Structure](https://github.com/radhiaaulia16/Pratikum-Struktur-Data/tree/main/JS%202)<br> ##
+## [Jobsheet 2 - Array, Pointer, Structure](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%202%20-%20Array%2C%20Pointer%2C%20Structure)<br> ##
 
   #### Array
   Array merupakan suatu kumpulan nilai yang bertipe data sama. Setiap data dalaam array dapat diakses menggunakan indeks dan elemen array dapat diakses langsung secara acak. Dimensi Array dinyatakan dalam bentuk baris dan kolom seperti matriks.<br>
@@ -45,7 +45,7 @@ Struktur data dibagi menjadi 2, yaitu : </p>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## [Jobsheet 3 - Single Linked List](https://github.com/radhiaaulia16/Pratikum-Struktur-Data/tree/main/JS%203)<br> ##
+## [Jobsheet 3 - Single Linked List](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%203%20-%20Single%20Linked%20List)<br> ##
 
 <p align="justify">
   Single linked list adalah struktur data linear yang terdiri dari sejumlah simpul(node) yang terhubung satu sama lain dengan menggunakan pointer. Setiap simpul memiliki dua bagian, data pointer yang menunjuk ke simpul berikutnya dalam daftar. Di simpul terakhir, pointer menunjuk ke nilai null, menandakan akhir dari linked list.</p>
@@ -58,7 +58,7 @@ Sebuah simpul/node berisi alamat dan kumpulan data, dalam sebuah simpul/node ked
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## [Jobsheet 4 - Doubly Linked List](https://github.com/radhiaaulia16/Pratikum-Struktur-Data/tree/main/JS%204)<br> ##
+## [Jobsheet 4 - Doubly Linked List](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%204%20-%20Doubly%20Linked%20List)<br> ##
 
 Doubly linked list (DLL) berisi pointer tambahan, biasanya disebut pointer sebelumnya, bersama dnegan pointer berikutnya dan data yang ada dalam daftar tertaut tunggal. Sama halnya dengan single linked list sebuah dobly link list memiliki head dan tail, perbedaannya doubly link list memiliki 2 arah data yakni next dan previous.
 
@@ -85,7 +85,7 @@ Jenis Insertion() :
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## [Jobsheet 5 - Double and Circular Linked List](https://github.com/radhiaaulia16/Pratikum-Struktur-Data/tree/main/JS%205)<br>
+## [Jobsheet 5 - Double and Circular Linked List](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%205%20-%20Double%20and%20Circular%20Linked%20List)<br>
 
   ####  Double Linked List
   Double Linked List adalah list elemen yang dihubungkan dengan dua pointer dalam satu node. Struktur ini menyebabkan list melintas baik kedepan ataupun kebelakang. Elemen pada double linked list terdiri dari tiga bagian, disamping data (info) dan pointer next, setiap elemen dilengkapi dengan pointer prev dan next . Untuk menunjukkan head dari double linked list ini maka pointer prev dari elemn pertama menunjukkan nilai NULL. Untuk menunjukkan tail dari double linked list, maka pointer next dari elemen terakhir menunjuk nilai NULL.<br>
@@ -95,7 +95,7 @@ Jenis Insertion() :
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## [Jobsheet 6 - Stack](https://github.com/radhiaaulia16/Pratikum-Struktur-Data/tree/main/JS%206)<br>
+## [Jobsheet 6 - Stack](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%206%20-%20Stack)<br>
 
   #### Stack
   Stack adalah sebuah kumpulan data yang mana letaknya berada di atas data yang lain. Dengan demikian stack adalah struktur data yang menggunakan konsep LIFO (Last In First Out). Dalam proses komputasi, untuk meletakkan sebuah elem pada bagian atas stack, disebut dengan <b>push</b>, dan untuk memindahkan data dari tempat yang atas, disebut <b>pop</b>.<br>
@@ -114,7 +114,7 @@ Jenis Insertion() :
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## [Jobsheet 7 - Queue](https://github.com/radhiaauliaa/Pratikum-Struktur-Data/tree/main/JS%207)<br>
+## [Jobsheet 7 - Queue](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%207%20-%20Queue)<br>
 
   #### Queue
   Queue adalah struktur data linier yang menerapkan prinsip operasi dimana elemen data yang masuk pertama akan keluar lebih dulu. Prinsip ini dikenal dengan istilah FIFO (First In, First Out). Persamaan antara stack dan queue adalah keduanya dapat diimplementasikan menggunakan struktur data linked list atau array.
@@ -146,7 +146,7 @@ meningkatkan indeks FRONT.</li>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## [Jobsheet 8 - Bubble and Insertion Sort](https://github.com/radhiaauliaa/Pratikum-Struktur-Data/tree/main/JS%208)<br>
+## [Jobsheet 8 - Bubble and Insertion Sort](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%208%20-%20Bubble%20and%20Insertion%20Sort)<br>
 
   #### Sorting
   Sorting (Pengurutan) merupakan proses pengurutan data yang sebelumnya disusun secara acak sehingga tersusun secara teratur menurut aturan tertentu. Teknik Sorting yang umum digunakan : buble sort, insertion sort, selection sort, quicksort, mergesort, heapsort, dan binary sort.<br>
@@ -159,7 +159,7 @@ meningkatkan indeks FRONT.</li>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## [Jobsheet 9 - Selection and Merge Sort](https://github.com/radhiaauliaa/Pratikum-Struktur-Data/tree/main/JS%209)<br>
+## [Jobsheet 9 - Selection and Merge Sort](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%209%20-%20Selection%20and%20Merge%20Sort)<br>
 
   #### Selection Sort
   Selection Sort merupakan sebuah algoritma yang digunakan untuk mencari dna memilih element/data terkecil dalam sebuah list yang belum tersusun dalam setiap iterasi dan menempatkan elemen terkecil di urutan paling depan dari urutan list data.<br>
@@ -185,7 +185,7 @@ terurut. </li>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## [Jobsheet 10 -  Shell and Quick Sort](https://github.com/radhiaauliaa/Pratikum-Struktur-Data/tree/main/JS%2010)<br>
+## [Jobsheet 10 -  Shell and Quick Sort](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%2010%20-%20Shell%20and%20Quick%20Sort)<br>
 
   #### Shell Sort
   Shell Sort merupakan sebuah algoritma dengan pengurutan elemen pertama memiliki jarak interval dengan elemen yang akan dibandingkan. Pada prinsipnya sama dengan Insertion sort pada pokok bahasan sebelumnya.<br>
@@ -208,7 +208,7 @@ terurut. </li>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## [Jobsheet 11 - Linear and Binary Search](https://github.com/radhiaauliaa/Pratikum-Struktur-Data/tree/main/JS%2011)<br>
+## [Jobsheet 11 - Linear and Binary Search](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%2011%20-%20Linear%20and%20Binary%20Search)<br>
 
 Algoritma penacarian adalah algoritma yang menerima sebuah argumen kunci dan dengan langkah-langkah tertentu akan mencari rekaman dengan kunci tersebut. Setelah proses pencarian dilaksanakan, akan diperoleh salah satu dari dua kemungkinan, yaitu data yang dicari ditemukan atau tidak ditemukan.<br>
 Ada dua macam teknik pencarian yaitu pencarisan sekuensial dan pencarian biner. Perbedaan dari dua teknik ini terletak pada keadaan data. Pencarian biner digunakan apabila data dalam keadaan acak atau tidak terurut. Pencarian biner data yang sudah dalam keadaan terurut.<br>
@@ -235,7 +235,7 @@ Algoritma binary search:<br>
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## [Jobsheet 12 - Tree](https://github.com/radhiaauliaa/Pratikum-Struktur-Data/tree/main/JS%2012)<br>
+## [Jobsheet 12 - Tree](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%2012%20-%20Tree)<br>
 
   #### Tree Traversal
   Traverse atau Melintasi sebuah pohon data/tree artinya mengunjungi semua simpul yang ada pada pohon tersebut. Ada beberapa hal yang dapat dilakukan contoh jika ingin menambah nilai semua data pada pohon tersebut atau mencari nilai tertinggi diantaranya. Untuk operasi-operasi tersebut, harus dilakukan mengunjungi setiap simpul dari pohon data.<br>
@@ -261,7 +261,7 @@ Terdapat 3 cara melintasi tree :
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## [Jobsheet 13 -  Graphs](https://github.com/radhiaauliaa/Pratikum-Struktur-Data/tree/main/JS%2013)<br>
+## [Jobsheet 13 -  Graphs](https://github.com/radhiaauliaa/pratikum-struktur-data/tree/main/Jobsheet%2013%20-%20Graphs)<br>
 
   #### Depth First Search/Traversal
   Traversal berarti mengunjungi semua node dari suatu graph. DFS atau DFT adalah algoritma pencarian rekursif yang digunakan untuk menjelajahi semua node dalam suatu graph atau pohon.<br>
