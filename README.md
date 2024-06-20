@@ -1,6 +1,6 @@
 <img src="https://github.com/radhiaauliaa/pratikum-struktur-data/blob/main/asset/headline.gif" width="1000" height="260"/>
 
-# Pratikum-Struktur-Data
+# Pratikum-Struktur-Data <img src="https://www.thedataschool.com.au/wp-content/uploads/2022/01/logo-data-structures-algorithms.png" width="34" height="34">
 
 Repositori ini berisi penjelasan mengenai materi yang ada di dalam jobsheet beserta tugas dan latihan yang dikerjakan oleh mahasiswa. Penjelasan beserta link jobsheet telah tertera di bawah.
 
