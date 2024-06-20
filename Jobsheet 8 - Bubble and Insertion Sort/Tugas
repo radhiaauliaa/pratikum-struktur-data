@@ -1,0 +1,26 @@
+//created by Radhia Aulia Nisa 23343049
+## Tugas
+Contoh aplikasi yang mengimplementasikan sort dan insertion sort.<br>
+
+### Pengurutan file teks.<br>
+   - Bubble sort
+     - Digunakan untuk mengurutkan isi file teks.
+     - Bekerja dengan cara membaca baris-baris dalam file teks, membandingkan isinya, dan menukar
+       posisinya jika tidak berurutan.
+     - proses ini diulang hingga semua baris terurut dari yang terkecil hingga terbesar.
+   - Insertion sort
+      - Digunakan untuk mengurutkan isi file teks yang sudah memiliki beberapa baris yang terurut, seperti
+        file daftar nama.
+     -  Bekerja dengan cara membaca baris baru dari file teks, memasukkannya ke dalam urutan yang benar
+        dengan membandingkannya dengan baris-baris yang sudah terurut sebelumnya.
+     - Proses ini diulang hingga semua baris terurut dari yang kecil hingga terbesar.<br>
+
+#### Cara kerjanya:
+- Bubble sort
+  - algoritma ini bekerja dengan cara mengulang seluruh elemen dalam array, membandingkan elemen-elemen
+    yang berdekatan, dan menukar posisinya jika tidak berurutan.
+  - Proses ini diulang hingga tidak ada lagi pertukaran yang terjadi, yang menandakan bahwa semua elemen sudah terurut.
+- Insertion sort
+  - Algoritma ini bekerja dengan cara memasukkan elemen baru ke dalam urutan yang benar dengan membandingkannya
+    dengan elemen-elemen yang sudah terurut sebelumnya.
+  - Proses ini diulang hingga semua elemen terurut.
