@@ -1,0 +1,22 @@
+// created by Radhia Aulia Nisa
+
+#### Contoh aplikasi yang mengimplementasikan shell sort dan quick sort<br>
+1. Pengurutan data dalam basis data
+   - Shell sort: Digunakan untuk mengurutkan data dalam tabel database, seperti tabel penggan atau tabel produk.
+   - Quick sort: Digunakan untuk mengurutkan data yang besar dan kompleks.
+2. Kompresi data
+   - Shell sort: Digunakan untuk mengurutkan data sebelum dikompresi. Hal ini dapat meningkatkan rasio kompresi, terurama
+     untuk data yang memiliki banyak duplikasi.
+   - Quick sort: Digunakan untuk mengurutkan data sebelum dikompresi dengan algoritma kompresi lossless.
+     Hal ini dapat meningkatkan efisiensi kompresi.
+#### Cara kerja:
+1. Shell sort:
+   - Algoritma ini membagi data menjadi sub-list dengan interval yang semakin kecil.
+   - Setiap sub-list diurutkan menggunakan insertion list.
+   - Interval dikurangi secara berulang sampai intervalnya menjadi 1.
+   - Pada interval 1, data diurutkan secara keseluruhan menggunakan insertion sort.
+2. Quick sort:
+   - Algoritma in memilih elemen pivot dari data.
+   - Membagi data menjadi dua partisi, elemen yang lebih kecil dari pivot dan elemen yang lebih besar dari pivot.
+   - Menerapkan quick sort secara rekursif pad akesua partisi.
+   - Menggabungkan kedua pertisi yang sudah terurut.
