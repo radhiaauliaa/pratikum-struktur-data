@@ -1,4 +1,4 @@
-<img src="https://github.com/radhiaauliaa/pratikum-struktur-data/blob/main/asset/header.gif" width="900" height="300"/>
+<img src="https://github.com/radhiaauliaa/pratikum-struktur-data/blob/main/asset/headline.gif" width="1000" height="260"/>
 
 # Pratikum-Struktur-Data
 
