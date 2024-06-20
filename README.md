@@ -1,3 +1,5 @@
+<img src="https://github.com/radhiaauliaa/pratikum-struktur-data/blob/main/asset/header.gif" width="900" height="300"/>
+
 # Pratikum-Struktur-Data
 
 Repositori ini berisi penjelasan mengenai materi yang ada di dalam jobsheet beserta tugas dan latihan yang dikerjakan oleh mahasiswa. Penjelasan beserta link jobsheet telah tertera di bawah.
